@@ -8,9 +8,9 @@ An end-to-end data science project showcasing customer analysis through three ma
 
 <pre>
 📦 DataScience_Assignment
- ┣ 📓 EDA.pdf                  # Comprehensive EDA findings report
- ┣ 📊 Rajiv_Yadav_EDA.ipynb         # EDA Jupyter notebook
- ┣ 📊 Rajiv_Yadav_clustering.ipynb   # Customer segmentation analysis
+ ┣ 📓 EDA.pdf                             # Comprehensive EDA findings report
+ ┣ 📊 Rajiv_Yadav_EDA.ipynb               # EDA Jupyter notebook
+ ┣ 📊 Rajiv_Yadav_clustering.ipynb        # Customer segmentation analysis
  ┣ 📓 Rajiv_Yadav_clustering.pdf          # Detailed clustering results
  ┣ 📄 Rajiv_Yadav_lookalike.csv           # Model recommendations
  ┗ 📊 Rajiv_Yadav_lookalike.ipynb         # Lookalike modeling notebook
