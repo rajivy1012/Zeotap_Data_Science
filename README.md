@@ -98,9 +98,3 @@ graph LR
 
 
 
----
-<div align="center">
-    <strong>Built with ❤️ by Rajiv</strong>
-    <br>
-    Last updated: 1 minute ago
-</div>
